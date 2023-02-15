@@ -1,0 +1,2 @@
+-- Sql program to list all databases of my MySQL server
+SHOW DATABASES;
